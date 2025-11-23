@@ -42,8 +42,8 @@ DUTS/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sod_project.git
-cd sod_project
+git clone https://github.com/yourusername/salient-object-detection.git
+cd salient-object-detection
 ```
 
 2. Create a virtual environment (optional but recommended):
