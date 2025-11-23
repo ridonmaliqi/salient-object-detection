@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / Keras / PyTorch checkpoints
+checkpoints/
+*.h5
+*.pt
+*.pth
+
+# Gradio temporary files
+.gradio/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset archives (optional: you may keep a link to download)
+*.zip
+
+# Ignore DUTS dataset
+DUTS/

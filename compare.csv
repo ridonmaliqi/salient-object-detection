@@ -1,0 +1,6 @@
+Metric,Baseline,Improved
+IoU,0.6504,0.6449
+Precision,0.7831,0.8238
+Recall,0.8484,0.8049
+F1,0.8144,0.8143
+MAE,0.1322,0.1285
